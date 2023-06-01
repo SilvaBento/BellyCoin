@@ -1,0 +1,71 @@
+{
+    "DATEFORMATS": {
+      "SHORT": "dd/MM/yyyy",
+      "MEDIUM": "dd/MM/yyyy",
+      "LONG": "dd 'de' MMMM 'de' yyyy",
+      "FULL": "EEEE, dd 'de' MMMM 'de' yyyy"
+    },
+    "TIMEFORMATS": {
+      "SHORT": "HH:mm",
+      "MEDIUM": "HH:mm:ss",
+      "LONG": "HH:mm:ss z",
+      "FULL": "HH:mm:ss zzzz"
+    },
+    "MONTHS": [
+      "janeiro",
+      "fevereiro",
+      "março",
+      "abril",
+      "maio",
+      "junho",
+      "julho",
+      "agosto",
+      "setembro",
+      "outubro",
+      "novembro",
+      "dezembro"
+    ],
+    "SHORTMONTHS": [
+      "jan",
+      "fev",
+      "mar",
+      "abr",
+      "mai",
+      "jun",
+      "jul",
+      "ago",
+      "set",
+      "out",
+      "nov",
+      "dez"
+    ],
+    "WEEKDAYS": [
+      "domingo",
+      "segunda-feira",
+      "terça-feira",
+      "quarta-feira",
+      "quinta-feira",
+      "sexta-feira",
+      "sábado"
+    ],
+    "SHORTWEEKDAYS": [
+      "dom",
+      "seg",
+      "ter",
+      "qua",
+      "qui",
+      "sex",
+      "sáb"
+    ],
+    "NARROWWEEKDAYS": [
+      "D",
+      "S",
+      "T",
+      "Q",
+      "Q",
+      "S",
+      "S"
+    ],
+    "FIRSTDAYOFWEEK": 1
+  }
+  
